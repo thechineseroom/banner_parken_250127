@@ -347,7 +347,7 @@ if (reversed == null) { reversed = false; }
 	// Layer_1
 	this.clickArea = new lib.ClickButton();
 	this.clickArea.name = "clickArea";
-	this.clickArea.setTransform(1646.95,-820.35,1.9375,4.32,0,0,0,255.3,125);
+	this.clickArea.setTransform(254.9,540,0.9889,0.96,0,0,0,255.4,562.5);
 	new cjs.ButtonHelper(this.clickArea, 0, 1, 1);
 
 	this.instance = new lib.LogoMC();
@@ -376,7 +376,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new lib.AnMovieClip();
-p.nominalBounds = new cjs.Rectangle(490,-1240.3,2582.3,1489.8);
+p.nominalBounds = new cjs.Rectangle(490,120,520,129.5);
 // library properties:
 lib.properties = {
 	id: 'FE62A4A6F090493DA9DC5A50C4BF5FA9',
@@ -386,7 +386,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/logolargebkma.png?1739999909025", id:"logolargebkma"}
+		{src:"images/logolargebkma.png?1740000388798", id:"logolargebkma"}
 	],
 	preloads: []
 };
